@@ -4,7 +4,7 @@ Hi 👋 My name is Farzan
 👨‍💻 Full-Stack React Developer 🚀 | JavaScript Enthusiast 🌟 | Building Seamless Web Experiences 💻 | Problem-Solver Extraordinaire 💡 | Exploring the Possibilities of Tech 🌌 | Let's Create Something Awesome Together! 🎉 Feel free to adapt it as needed, highlighting the aspects that showcase your skills and interests best. Happy coding and collaborating on GitHub! 🎉
 
 * 🖥️  See my portfolio at [Portfolio](http://farzn.com)
-* ✉️  You can contact me at [farzan.hosseiny@gmail.com](mailto:farzan.hosseiny@gmail.com)
+* ✉️  You can contact me at [ini.farzan@gmail.com](mailto:ini.farzan@gmail.com)
 * 🧠  I'm learning TypeScript, Next.Js
 * 🤝  I'm open to collaborating on Projects
 

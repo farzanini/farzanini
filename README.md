@@ -22,11 +22,11 @@ Most of my work lives in private company repositories.
 
 ## Tech
 
-**AI / LLM** — agent design, tool calling, LLM evaluation, LangGraph, LangSmith, OpenAI & Anthropic APIs, Claude Code / Codex workflows
-**Languages** — Python, TypeScript, JavaScript, C#, Go, SQL
-**Backend** — FastAPI, Django REST Framework, .NET, Node.js, PostgreSQL, SQL Server, RabbitMQ
-**Frontend** — React, Next.js, TanStack, Redux, Tailwind CSS
-**Infra** — Docker, Kubernetes/Helm, GitHub Actions, GitLab CI, OpenTelemetry, Sentry, Keycloak, Linux
+**AI / LLM** — agent design, tool calling, LLM evaluation, LangGraph, LangSmith, OpenAI & Anthropic APIs, Claude Code / Codex workflows  
+**Languages** — Python, TypeScript, JavaScript, C#, Go, SQL  
+**Backend** — FastAPI, Django REST Framework, .NET, Node.js, PostgreSQL, SQL Server, RabbitMQ  
+**Frontend** — React, Next.js, TanStack, Redux, Tailwind CSS  
+**Infra** — Docker, Kubernetes/Helm, GitHub Actions, GitLab CI, OpenTelemetry, Sentry, Keycloak, Linux  
 
 ## Connect
 
